@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../06-Modal/starter"
+    }
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
